@@ -1,1 +1,2 @@
-Inital config file in master
+xyz = 1
+recordcount = 30

@@ -1,1 +1,1 @@
-Inital feature file in master
+New features implemented
